@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdGuille
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning swift and swiftUI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend
+- Learning Python and Go for Network
+- Postgrest and MDB
 - 📫 contact me at guillermoruizbaires@gmail.com
 
 <!---
