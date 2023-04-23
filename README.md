@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sdGuille
-- 👀 I’m interested in Backend
-- Learning Python and Go for Network
+- 👀 I’m iOS Developer
+- Looking for a job
+- Learning Kotlin and Go for Network
 - Postgrest and MDB
 - 📫 contact me at guillermoruizbaires@gmail.com
 
