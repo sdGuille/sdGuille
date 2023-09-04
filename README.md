@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ChurchManagement**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Backend Development to have the big picture**
 
 - 💬 Ask me about **iOS Development**
 
